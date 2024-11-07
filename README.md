@@ -52,7 +52,14 @@ The methods used for this project include:
      Else 0
      ```
         *This was subsequently repeated for Pillar 2-8 Results.*
-     
+
+     Pillar 1 Strength
+     ```DAX
+     If Pillar 1 equals Yes Then 1
+     Else 0
+     ```
+        *This was subsequently repeated for Pillar 2-8 Results.*
+
   3. **Data Visualization:**
       * Donut Charts were used to illustrate the stregth and weakness of each pillar,
       * Cards were used to illustrate the strongest and weakest pillars in the community,

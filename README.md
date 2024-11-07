@@ -1,5 +1,5 @@
 # 8-Pillars
-This is an analysis of the data obtained from a survey conducted on the Ipetu/Ife Community in Osun State Nigeria. This owner has all rights.
+This is an analysis of the data obtained from a survey conducted on the Ipetu/Ife Community in Osun State Nigeria. All rights belong to Nimi Adebayo.
 
 [Introduction](#introduction) [Overview](#overview) [Data Source](#data-source) [Methods](#methods) [Findings and Recommendations](#findings-and-recommendations) [Visualizations](#visualizations) [Conclusion](#conclusion)
 

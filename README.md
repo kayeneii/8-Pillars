@@ -1,12 +1,18 @@
 # 8-Pillars
 This is an analysis of the data obtained from a survey conducted on the Ipetu/Ife Community in Osun State Nigeria. This owner has all rights.
 
-## Overview
+## The 8 Pillars of Positive Peace through the Lens of the Ipetu/Ife Community in Osun State Nigeria.
 
-## Dataset
+### Introduction
+---
 
-## Methods
+### **Data Source**
+---
 
-## Findings and Insights
+### **Methods**
+---
 
-## Visualizations
+### **Findings and Recommendations**
+---
+
+### **Visualizations**

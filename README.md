@@ -92,7 +92,7 @@ The methods used for this project include:
 
 ### **Findings and Recommendations**
 ---
--Findings: These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
+- Findings: These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
    
    * 43.8% think public services (schools, hospitals, security i.e. the police force) function effectively in their community.
    * 37.5% think community resources such as housing, jobs, healthcare, and education, are distributed fairly among all groups.

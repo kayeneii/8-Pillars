@@ -20,17 +20,17 @@ The data used for this projuct was collected through an [online survey](https://
 ### **Methods**
 ---
 The methods used for this project include:
-- **Google Forms:** This was used in conducting an online survey of students and residents in the Ipetu/Ife Community. The survey comprised of a series of 8 questions with Yes/No options.
+- Google Forms: This was used in conducting an online survey of students and residents in the Ipetu/Ife Community. The survey comprised of a series of 8 questions with Yes/No options.
 
-- **Google Sheets:** This was used in collecting said data.
+- Google Sheets: This was used in collecting said data.
   
-- **Microsoft Power BI:** This was used for data processing, analysis and visualization.
-  1. Data Processing:
+- Microsoft Power BI: This was used for data processing, analysis and visualization.
+  1. **Data Processing:**
         * Data loading and validation
         * Data cleaning
         * Data transformation
  
-  2. Data Analysis:
+  2. **Data Analysis:**
      The data obtained was analyzed to derive answers to questions like:
         * How strong is 'Pillar 1: Well-Functioning Government' in the community?
         * How strong is 'Pillar 2: Equitable Distribution of Resources' in the community?
@@ -53,7 +53,7 @@ The methods used for this project include:
      ```
         *This was subsequently repeated for Pillar 2-8 Results.*
      
-  3. Data Visualization:
+  3. **Data Visualization:**
       * Donut Charts were used to illustrate the stregth and weakness of each pillar,
       * Cards were used to illustrate the strongest and weakest pillars in the community,
       * Bar Charts were used to illustrate pillar rankings according to strength in the community.
@@ -63,3 +63,10 @@ The methods used for this project include:
 
 
 ### **Visualizations**
+---
+![Data Viz](https://github.com/kayeneii/8-Pillars/blob/main/Ipetu_Ife-Community-Context-Analysis-Viz.png)
+![Pillar Rank](https://github.com/kayeneii/8-Pillars/blob/main/Ipetu_Ife-Community-Ranking-Viz.png)
+
+### **Conclusion**
+---
+

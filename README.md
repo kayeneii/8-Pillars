@@ -1,6 +1,8 @@
 # 8-Pillars
 This is an analysis of the data obtained from a survey conducted on the Ipetu/Ife Community in Osun State Nigeria. This owner has all rights.
 
+[Introduction](#introduction) [Overview](overview) [Data Source](data-source) [Methods](methods) [Findings and Recommendations](findings-and-recommendations) [Visualizations](visualizations) [Conclusion](conclusion)
+
 ## The 8 Pillars of Positive Peace through the Lens of the Ipetu/Ife Community in Osun State Nigeria.
 
 ### Introduction
@@ -92,7 +94,7 @@ The methods used for this project include:
 
 ### **Findings and Recommendations**
 ---
-- Findings: These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
+- **Findings:** These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
    
    * 43.8% think public services (schools, hospitals, security i.e. the police force) function effectively in their community.
    * 37.5% think community resources such as housing, jobs, healthcare, and education, are distributed fairly among all groups.
@@ -106,7 +108,7 @@ The methods used for this project include:
    * Pillar 7, Low Levels of Corruption is the weakest pillar in the community.
    * Pillar 3 and 4 rank second strongest with Pillar 6 coming in third. Pillar 1 and 8 rank third weakest and Pillar 2 is the second weakest pillar in the community.
 
-- Recommendations: The following recommendations are based on the findings above,
+- **Recommendations:** The following recommendations are based on the findings above,
 
    * an action plan should be drawn up to address the factors affecting the conditions that foster positive peace in the community,
    * community and stakeholder analysis should be conducted for a better understanding of these factors,
@@ -122,4 +124,6 @@ The methods used for this project include:
 
 ### **Conclusion**
 ---
+Thank you for taking your time to read this! This report was based solely on the results of the data collected as at November 2024. The owner recognizes that the facts stated here are subject to change.
 
+Until my next report, you may find me [here](https://linkedin.com/in/kayeneii). I look forward to hearing from you.😄

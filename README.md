@@ -17,7 +17,8 @@ The Ipetu/Ife Community is located in Ife North Local Government in Osun State, 
   Positive Peace is the presence of conditions that prevent violence and conflict from arising in the first place. According to the IEP, Positive Peace addresses the underlying factors that sustain peaceful and prosperous societies, such as equitable resource distribution, functioning government, and social cohesion. It differs from *Negative Peace* which simply refers to the absence of war. Through its empirical research and data-driven approach, the IEP developed a Positive Peace Framework to assess and develop positive peace in communities, organizations, and States. This birthed the 8 Pillars of Positive Peace, through which this research and analysis was conducted.
 
 **What are the 8 Pillars of Positive Peace?**
-These 8 pillars of positive peace represent the essential factors that. They are: 
+
+These 8 pillars of positive peace represent the essential factors that contribute to peaceful and resilient societies. They are: 
    1. Well-Functioning Government
    2. Equitable Distribution of Resources
    3. Free Flow of Information
@@ -85,8 +86,18 @@ The methods used for this project include:
 
 ### **Findings and Recommendations**
 ---
-   -Findings: These findings were derived from the data collected during the survey,
+   -Findings: These findings were derived from the data collected during the survey conducted to gauge community members perception of the 8 pillars of Positive Peace in the community.
+        * 43.8% think that
+        * 37.5%
+        * 56.3% trust their local news. 
+        * 56.3%
+        * 62.5%
         * 50%
+        * 31.3%
+        * 43.8%
+        * Pillar 5, Good Relations with Neighbors is the strongest pillar in the community. 
+        * Pillar 7, Low Levels of Corruption is the weakest pillar in the community. 
+        * Pillar 3 is the second strongest pillar, with Pillar 
         
 
    - Recommendations:

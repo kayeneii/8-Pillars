@@ -9,7 +9,7 @@ This project was designed to research and analyze the Ipetu/Ife Community under 
 
 **What is Positive Peace?**
   
-  Positive Peace is the presence of conditions that prevent violence and conflict from arising in the first place. According to the IEP, Positive Peace addresses the underlying factors that sustain peaceful and prosperous societies, such as equitable resource distribution, functioning government, and social cohesion. It differs from Negative Peace which simply refers to the absence of war. Through its empirical research and data-driven approach, the IEP developed a Positive Peace Framework to assess and develop positive peace in communities, organizations, and States. This birthed the 8 Pillars of Positive Peace, through which this research and analysis was conducted.
+  Positive Peace is the presence of conditions that prevent violence and conflict from arising in the first place. According to the IEP, Positive Peace addresses the underlying factors that sustain peaceful and prosperous societies, such as equitable resource distribution, functioning government, and social cohesion. It differs from *Negative Peace* which simply refers to the absence of war. Through its empirical research and data-driven approach, the IEP developed a Positive Peace Framework to assess and develop positive peace in communities, organizations, and States. This birthed the 8 Pillars of Positive Peace, through which this research and analysis was conducted.
 
 
 ### **Data Source**
@@ -26,12 +26,12 @@ The methods used for this project include:
   
 - **Microsoft Power BI:** This was used for data processing, analysis and visualization.
   1. Data Processing:
-    * Data loading and validation
-    * Data cleaning
-    * Data transformation
+        * Data loading and validation
+        * Data cleaning
+        * Data transformation
  
   2. Data Analysis:
-     Data was analyzed to derive answers to questions like:
+     The data obtained was analyzed to derive answers to questions like:
         * How strong is 'Pillar 1: Well-Functioning Government' in the community?
         * How strong is 'Pillar 2: Equitable Distribution of Resources' in the community?
         * How strong is 'Pillar 3: Free Flow of Information' in the community?
@@ -51,9 +51,15 @@ The methods used for this project include:
      If Pillar 1 equals Yes Then 1
      Else 0
      ```
+        *This was subsequently repeated for Pillar 2-8 Results.*
      
+  3. Data Visualization:
+      * Donut Charts were used to illustrate the stregth and weakness of each pillar,
+      * Cards were used to illustrate the strongest and weakest pillars in the community,
+      * Bar Charts were used to illustrate pillar rankings according to strength in the community.
 
 ### **Findings and Recommendations**
 ---
+
 
 ### **Visualizations**

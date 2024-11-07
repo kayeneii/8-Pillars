@@ -28,6 +28,12 @@ These 8 pillars of positive peace represent the essential factors that contribut
    7. Low Levels of Corruption
    8. Doing Business Environment
 
+The 8 Pillars of Peace are interconnected, in that a change in one pillar leads to a change in the other pillars.
+For instance, a community, organization or state that adopts a well-functioning system of government. A well-functioning government is one with institutions that execute governance and deliver public services efficiently. These institutions represent the government's recognition and acceptance of the rights of its people, including the right to hold the government accountable through the free flow of information (top-bottom and bottom-top). This free flow of information will provide channels for its people to demand and equitably receive resources that will further increase human capital across various social strata and create sound business environments where the corruption level is reduced. As a result, the relationship with neighbours is improved.
+
+Therefore, it can be asserted that a change in any pillar of positive peace would set off a chain of reaction in the others.
+
+
 ### **Data Source**
 ---
 The data used for this projuct was collected through an [online survey](https://forms.gle/6oFXC5cJRzTQyUGy9) with participants from said community. 

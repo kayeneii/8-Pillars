@@ -97,8 +97,7 @@ The methods used for this project include:
         * 43.8%
         * Pillar 5, Good Relations with Neighbors is the strongest pillar in the community. 
         * Pillar 7, Low Levels of Corruption is the weakest pillar in the community. 
-        * Pillar 3 is the second strongest pillar, with Pillar 
-        
+        * Pillar 3 and 4 rank second strongest with Pillar 6 coming in third. Pillar 1 and 8 rank third weakest and Pillar 2 is the second weakest pillar in the community.
 
    - Recommendations:
 

@@ -106,6 +106,7 @@ The methods used for this project include:
         * Pillar 3 and 4 rank second strongest with Pillar 6 coming in third. Pillar 1 and 8 rank third weakest and Pillar 2 is the second weakest pillar in the community.
 
    - Recommendations: The following recommendations are based on the findings above,
+
         * an action plan should be drawn up to address the factors affecting the conditions that foster positive peace in the community,
         * community and stakeholder analysis should be conducted for a better understanding of these factors,
         * a strategy should be drawn for improving and ensuring the sustainability of these 8 Pillars across the Ipetu/Ife Community,

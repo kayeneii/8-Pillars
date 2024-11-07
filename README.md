@@ -92,21 +92,21 @@ The methods used for this project include:
 
 ### **Findings and Recommendations**
 ---
- -Findings: These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
+-Findings: These findings were derived from the data collected from students and residents during the survey, to gauge their perception of the strength of the 8 pillars of Positive Peace in the community.
    
    * 43.8% think public services (schools, hospitals, security i.e. the police force) function effectively in their community.
-    * 37.5% think community resources such as housing, jobs, healthcare, and education, are distributed fairly among all groups.
-    * 56.3% trust the information shared by local news sources.
-    * 56.3% feel that everyone in the community is treated fairly irrespective of tribe or religion.
-    * 62.5% believe people in their community generally get along well.
-    * 50% say there are good opportunities for skill development in their community.
-    * 31.3% think the community leaders act honestly.
-    * 43.8% say it is easy for new businesses to start and operate in their area.
-    * Pillar 5, Good Relations with Neighbors is the strongest pillar in the community. 
-    * Pillar 7, Low Levels of Corruption is the weakest pillar in the community. 
-    * Pillar 3 and 4 rank second strongest with Pillar 6 coming in third. Pillar 1 and 8 rank third weakest and Pillar 2 is the second weakest pillar in the community.
+   * 37.5% think community resources such as housing, jobs, healthcare, and education, are distributed fairly among all groups.
+   * 56.3% trust the information shared by local news sources.
+   * 56.3% feel that everyone in the community is treated fairly irrespective of tribe or religion.
+   * 62.5% believe people in their community generally get along wel.
+   * 50% say there are good opportunities for skill development in their community.
+   * 31.3% think the community leaders act honestly.
+   * 43.8% say it is easy for new businesses to start and operate in their area.
+   * Pillar 5, Good Relations with Neighbors is the strongest pillar in the community.
+   * Pillar 7, Low Levels of Corruption is the weakest pillar in the community.
+   * Pillar 3 and 4 rank second strongest with Pillar 6 coming in third. Pillar 1 and 8 rank third weakest and Pillar 2 is the second weakest pillar in the community.
 
- - Recommendations: The following recommendations are based on the findings above,
+- Recommendations: The following recommendations are based on the findings above,
 
    * an action plan should be drawn up to address the factors affecting the conditions that foster positive peace in the community,
    * community and stakeholder analysis should be conducted for a better understanding of these factors,

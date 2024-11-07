@@ -58,7 +58,7 @@ The methods used for this project include:
      If Pillar 1 equals Yes Then 1
      Else 0
      ```
-        *This was subsequently repeated for Pillar 2-8 Results.*
+        *This was subsequently repeated for Pillar 2-8 Strengths.*
 
   3. **Data Visualization:**
       * Donut Charts were used to illustrate the stregth and weakness of each pillar,

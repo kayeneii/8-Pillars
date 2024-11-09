@@ -120,7 +120,7 @@ The methods used for this project include:
 ### **Visualizations**
 ---
 ![Data Viz](https://github.com/kayeneii/8-Pillars/blob/main/Ipetu_Ife-Community-Context-Analysis-Viz.png)
-
+![Data Viz](https://github.com/kayeneii/8-Pillars/blob/main/Ipetu_Ife-Community-Ranking-Viz.png)
 
 ### **Conclusion**
 ---
